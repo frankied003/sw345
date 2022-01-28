@@ -1,5 +1,1 @@
-Todo List:
-
-  * this one
-  * that one
-  * the other one
+Please check the issue to see HW 1
