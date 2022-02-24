@@ -1,0 +1,1 @@
+HW was a little tricky, but used a lot of the code from the lab. Was able to midify the tests easily to make sure they passed, meaning changing repo names to my repos. Additionally, running the server was good, but had issue with curl and posting data in the terminal. After using git-bash, i was able to use curl.
